@@ -26,6 +26,9 @@ using Firebase Authentication, with additional security through JWT verification
 - **Authentication**:
   - Firebase Authentication
 
+
+## Live Demo
+Check out the deployed version of the project: [Madaan Estate Project Live Demo](https://madaan-estate.onrender.com/)
 ## Installation
 
 1. **Clone the repository:**
